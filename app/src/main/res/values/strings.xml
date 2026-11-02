@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiGrid Workspace</string>
+    <string name="layout_1">1 Ngăn</string>
+    <string name="layout_2_v">2 Dọc</string>
+    <string name="layout_2_h">2 Ngang</string>
+    <string name="layout_3">3 Ngăn</string>
+    <string name="layout_4">4 Ngăn</string>
+    <string name="change_app">Chọn ứng dụng</string>
+    <string name="reload_all">Tải lại tất cả</string>
+    <string name="slot_title">Ngăn</string>
+    <string name="enter_url_or_search">Nhập địa chỉ web hoặc tìm kiếm...</string>
+    <string name="open">Mở</string>
+    <string name="cancel">Hủy</string>
+    <string name="saved_automatically">Tất cả các ngăn đã được tự động lưu lại!</string>
+</resources>
